@@ -1,7 +1,5 @@
 # Desafio InstaFake
-- Para levantar el proyecto en tu computador, debes ir a la raíz del proyecto a través de
-la terminal y ejecutar:
-`npm install`
+- Para levantar el proyecto en tu computador, debes ir a la raíz del proyecto a través de la terminal y ejecutar: `npm install`
 - Luego ejecutar:
 `npm run watch`
 
