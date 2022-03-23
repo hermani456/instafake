@@ -1,5 +1,5 @@
 # Desafio InstaFake
-- Para ejecutar este desafio se debe ejecutar: 
+- Para correr este desafio se debe ejecutar: 
 
 `npm install`
 
