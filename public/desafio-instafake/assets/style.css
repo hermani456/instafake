@@ -1,10 +1,10 @@
-#block {
-	display: flex;
-	justify-content: space-between;
+#block{
+   display: flex;
+   justify-content: space-between;
 }
-.inline-block {
-	display: inline-block;
+.inline-block{
+   display: inline-block;
 }
-.hide {
-	display: none;
+.hide{
+   display: none;
 }
